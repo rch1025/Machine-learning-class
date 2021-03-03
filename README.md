@@ -1,2 +1,2 @@
 # Machine-learning-class
-Several concepts and several tips that are important for data analysis can be learned. I studied based on 'Machine Learning Master Class'.
+Several concepts and several tips that are important for data analysis can be learned.
